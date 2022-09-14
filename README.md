@@ -1,2 +1,2 @@
 # react-hacker-news
-Small front page of Hacker News made using React
+Small Hacker News front page made using React
