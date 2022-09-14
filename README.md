@@ -5,7 +5,7 @@
 </p>
 
 ## About 
-A simple Hacker News API front page React app made with Typescript
+A simple HN front page made with React/Typescript and Hacker News API
 
 ## Running the app
 
